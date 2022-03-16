@@ -1,0 +1,24 @@
+id: HealthArticle-origin
+fields:
+  pageTitle: Health-details article
+placeholders:
+  jss-main:
+    - componentName: RelatedArticle
+      fields:
+        relatedArticleTitle: Related Article
+    - componentName: FullImage
+      fields:
+        heroImage:
+          src: /data/media/img/sc_logo.png
+          alt: Sitecore Logo
+    - componentName: HealthArticle
+      fields:
+        Title: "Arjun"
+        Brief: "this article gives info of person-1 health and his medical details"
+        DetailedArticle: "Healthline News reports on emerging research, new treatments, diet, exercise, and trending topics in health and wellness. All articles are written by our network of editors and contributors. Everything we publish is fact checked by ourpanel of experts."
+        ArticleImage:
+          src: /data/media/img/sc_logo.png
+          alt: Sitecore Logo
+        ArticleAuthors:
+          - id: Doctor-1
+          - id: Doctor-2

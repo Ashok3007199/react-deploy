@@ -1,0 +1,10 @@
+id: AppSearch
+
+fields:
+  pageTitle: AppSearch
+
+placeholders:
+  jss-main:
+    - componentName: AppSearch
+      fields:
+        heading: test

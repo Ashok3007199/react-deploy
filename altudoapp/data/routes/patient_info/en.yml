@@ -1,0 +1,15 @@
+
+id: PatientInfo
+
+fields:
+  pageTitle: Patient Information
+
+placeholders:
+  jss-main:
+    - componentName: PatientInfo
+      fields:
+        patientName: Patient1
+        patientGender: Male
+      
+         
+          

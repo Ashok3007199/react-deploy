@@ -1,0 +1,15 @@
+
+id: doc-prescription
+
+fields:
+  pageTitle: Patient Prescription Page
+
+placeholders:
+  jss-main:
+    - componentName: DoctorPrescription
+      fields:
+        prescription: colpol
+        dateOfPrescription: '01-01-2022'
+        
+         
+          

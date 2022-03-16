@@ -1,0 +1,17 @@
+
+id: Doctor-Info
+
+fields:
+  pageTitle: Doctor Information
+
+placeholders:
+  jss-main:
+    - componentName: DoctorInfo
+      fields:
+        doctorName: ajay
+        doctorQualification: ready
+        doctorSpeciality: test
+        doctorExperience: 4
+       
+         
+          

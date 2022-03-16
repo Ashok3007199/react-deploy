@@ -1,0 +1,10 @@
+id: Carousel
+
+fields:
+  pageTitle: Carousel
+
+placeholders:
+  jss-main:
+    - componentName: Carousel
+      fields:
+        heading: test

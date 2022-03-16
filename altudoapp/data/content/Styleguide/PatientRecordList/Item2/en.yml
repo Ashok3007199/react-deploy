@@ -1,0 +1,7 @@
+id: patirntrecord-2
+displayName: Patirnt Record 2
+# Template defines the available fields. See /sitecore/definitions/templates/Styleguide-ContentList-Template.sitecore.js
+template: PatientRecord-Template
+fields:
+  prescription: Montec
+  dateOfPrescription: 02-01-2022

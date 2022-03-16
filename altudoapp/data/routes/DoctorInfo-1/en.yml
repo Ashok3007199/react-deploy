@@ -1,0 +1,13 @@
+id: Doctor-Info2
+
+fields:
+  pageTitle: Doctor Information
+
+placeholders:
+  jss-main:
+    - componentName: DoctorInfo
+      fields:
+        doctorName: arjun
+        doctorQualification: ready
+        doctorSpeciality: brain
+        doctorExperience: 4
